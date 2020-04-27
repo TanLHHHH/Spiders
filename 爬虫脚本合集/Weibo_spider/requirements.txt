@@ -1,0 +1,4 @@
+lxml==4.3.4
+requests==2.22.0
+tqdm==4.32.2
+csvtotable==2.1.1
